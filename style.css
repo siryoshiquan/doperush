@@ -3,6 +3,11 @@ html {
     width: 100%;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .header {
     background-image: url('DodgerBackTile.png');
     background-attachment:fixed;
